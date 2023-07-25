@@ -1,6 +1,6 @@
 # Commerce
 
-Project 2 of CS50w.
+Project 2 of CS50w. 
 
 Check out [CS50 Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/)
 
